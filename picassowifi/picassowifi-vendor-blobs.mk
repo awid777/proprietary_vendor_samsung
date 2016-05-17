@@ -23,7 +23,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/picassowifi/proprietary/vendor/firmware/bcm4335_murata.hcd:system/vendor/firmware/bcm4335_murata.hcd \
     vendor/samsung/picassowifi/proprietary/vendor/firmware/bcm4335_semco.hcd:system/vendor/firmware/bcm4335_semco.hcd \
     vendor/samsung/picassowifi/proprietary/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0031.0136_ORC_N1-3G.hcd:system/vendor/firmware/BT_FW_VER_BCM4339_003.001.009.0031.0136_ORC_N1-3G.hcd \
-    vendor/samsung/picassowifi/proprietary/lib/hw/camera.vendor.universal5420.so:system/lib/hw/camera.vendor.universal5420.so \
+    vendor/samsung/picassowifi/proprietary/lib/hw/camera.universal5420.so:system/lib/hw/camera.universal5420.so \
+    vendor/samsung/picassowifi/proprietary/lib/libmor.so:system/lib/libmor.so \
     vendor/samsung/picassowifi/proprietary/lib/libak8963c.so:system/lib/libak8963c.so \
     vendor/samsung/picassowifi/proprietary/lib/libarcsoft_flawlessface.so:system/lib/libarcsoft_flawlessface.so \
     vendor/samsung/picassowifi/proprietary/lib/libarcsoft_nighthawk.so:system/lib/libarcsoft_nighthawk.so \
