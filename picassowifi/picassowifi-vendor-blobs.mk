@@ -26,14 +26,21 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/picassowifi/proprietary/lib/hw/camera.universal5420.so:system/lib/hw/camera.universal5420.so \
     vendor/samsung/picassowifi/proprietary/lib/libmor.so:system/lib/libmor.so \
     vendor/samsung/picassowifi/proprietary/lib/libak8963c.so:system/lib/libak8963c.so \
-    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_flawlessface.so:system/lib/libarcsoft_flawlessface.so \
-    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_nighthawk.so:system/lib/libarcsoft_nighthawk.so \
-    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_night_shot.so:system/lib/libarcsoft_night_shot.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_flawlessface2.so:system/lib/libarcsoft_flawlessface2.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_magicshot_bestface.so:system/lib/libarcsoft_magicshot_bestface.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_magicshot_bestphoto.so:system/lib/libarcsoft_magicshot_bestphoto.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_magicshot_common.so:system/lib/libarcsoft_magicshot_common.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_magicshot_drama.so:system/lib/libarcsoft_magicshot_drama.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_magicshot_eraser.so:system/lib/libarcsoft_magicshot_eraser.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_magicshot_picmotion.so:system/lib/libarcsoft_magicshot_picmotion.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_night_shot_ex.so:system/lib/libarcsoft_night_shot_ex.so \
     vendor/samsung/picassowifi/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
-    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_picaction_manual.so:system/lib/libarcsoft_picaction_manual.so \
     vendor/samsung/picassowifi/proprietary/lib/libarcsoft_picaction.so:system/lib/libarcsoft_picaction.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_picmotion.so:system/lib/libarcsoft_picmotion.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_preprocessor.so:system/lib/libarcsoft_preprocessor.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_readengine.so:system/lib/libarcsoft_readengine.so \
     vendor/samsung/picassowifi/proprietary/lib/libarcsoft_sensorndk.so:system/lib/libarcsoft_sensorndk.so \
-    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_skin_soften.so:system/lib/libarcsoft_skin_soften.so \
+    vendor/samsung/picassowifi/proprietary/lib/libarcsoft_vdoinvideo.so:system/lib/libarcsoft_vdoinvideo.so \
     vendor/samsung/picassowifi/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/picassowifi/proprietary/lib/libliveframework.so:system/lib/libliveframework.so \
     vendor/samsung/picassowifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
