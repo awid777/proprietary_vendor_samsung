@@ -57,7 +57,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/picassowifi/proprietary/lib/omx/libOMX.Exynos.VP8.Encoder.so:system/lib/omx/libOMX.Exynos.VP8.Encoder.so \
     vendor/samsung/picassowifi/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/picassowifi/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
-    vendor/samsung/picassowifi/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/samsung/picassowifi/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/picassowifi/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/samsung/picassowifi/proprietary/etc/gps.xml:system/etc/gps.xml \
